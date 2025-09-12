@@ -3,6 +3,7 @@
 
 # Real-Time Chat Application
 
+🚀 **[Live Demo](https://full-stack-chat-app-qlpk.vercel.app/)** | 📖 **[Documentation](#getting-started)**
 
 Welcome to the **Full Stack Realtime Chat App** project, where we're building a scalable and secure real-time chat experience using the latest technologies. Whether you're a seasoned developer or a beginner, we invite you to contribute and be a part of this exciting journey!
 
@@ -73,7 +74,7 @@ PORT=5001
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/iemafzalhassan/full-stack_chatApp.git
+git clone https://github.com/Kundan0009/Full-stack-chat_app.git
 ```
 
 🏗️ Build and Run the Application
@@ -101,11 +102,11 @@ http://localhost
 Follow these simple steps to get the project up and running on your local Host using docker.
 
 ```bash
-git clone https://github.com/iemafzalhassan/full-stack_chatApp.git
+git clone https://github.com/Kundan0009/Full-stack-chat_app.git
 ```
 
 ```bash
-cd full-stack_chatApp
+cd Full-stack-chat_app
 ```
 ## Create a Docker network:
 
